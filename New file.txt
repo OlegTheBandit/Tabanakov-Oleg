@@ -1,3 +1,5 @@
 changed
+<<<<<<< HEAD
 +1
 change for master
+=======
